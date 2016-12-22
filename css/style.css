@@ -12,7 +12,10 @@
 
 	body
 	{
+		/*
 		background: #2b140a;
+		*/
+		background: #7F8FA6;
 	}
 
 	body,input,textarea,select
@@ -799,6 +802,21 @@
 	
 	.homepage #main
 	{
+	}
+
+	.square {
+		list-style-type: square;
+		list-style-position: inside;
+		margin-left: 2.5em;
+		margin-right: 2.5em;
+	}
+
+	.banner-image {
+		width: 80%;
+		margin: 0 auto;
+		display: block;
+		border:2px solid #7F8FA6;
+        margin-bottom: 10px;
 	}
 
 /*********************************************************************************/
